@@ -1,0 +1,5 @@
+{
+  "name": "AppFeature Analyzer",
+  "description": "An AI-powered tool that watches application demo videos, listens to the narration, and generates a comprehensive technical specification and feature list.",
+  "requestFramePermissions": []
+}
